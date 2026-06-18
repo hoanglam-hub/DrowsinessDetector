@@ -1,0 +1,16 @@
+Test loss: 0.526134
+Test accuracy: 0.834308
+
+Confusion matrix:
+[[156  19]
+ [ 66 272]]
+
+              precision    recall  f1-score   support
+
+      normal     0.7027    0.8914    0.7859       175
+      drowsy     0.9347    0.8047    0.8649       338
+
+    accuracy                         0.8343       513
+   macro avg     0.8187    0.8481    0.8254       513
+weighted avg     0.8556    0.8343    0.8379       513
+
