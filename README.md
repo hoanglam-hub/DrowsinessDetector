@@ -414,9 +414,7 @@ Trong triển khai thực tế, cần kiểm thử kỹ trong nhiều điều ki
 
 ## 18. Tác giả / Đơn vị phát triển
 
-Dự án được xây dựng phục vụ nghiên cứu và thử nghiệm hệ thống phát hiện buồn ngủ, mất tập trung của tài xế bằng AI thời gian thực.
-
-Có thể tùy chỉnh thêm thông tin đơn vị, nhóm phát triển, logo, hình ảnh demo và video minh họa khi đưa lên GitHub hoặc bàn giao sản phẩm.
+Tác giả: Hoàng Lâm
 
 ---
 
