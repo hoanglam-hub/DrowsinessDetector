@@ -414,7 +414,7 @@ Trong triển khai thực tế, cần kiểm thử kỹ trong nhiều điều ki
 
 ## 18. Tác giả / Đơn vị phát triển
 
-Tác giả: Hoàng Lâm
+Tác giả: Hoàng Lâm </br>
 Hướng dẫn: NamNguyen - Trung tâm du học American Study
 
 ---
